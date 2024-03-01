@@ -1,13 +1,13 @@
 +++
-title = "About me"
+title = "Über mich"
 draft = false
-description = ""
 image = ""
+description = ""
 +++
 ![](/img/default-author.jpg)
 
-## My Name
+# Florian Zenz
 
-mail@example.org
+florian.zenz@stud.muristalden.ch
 
-Here should be some info about me...
+Schulblog
